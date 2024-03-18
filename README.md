@@ -1,1 +1,1 @@
-Install Tikinter to run the following file
+Install Tkinter to run the following file
